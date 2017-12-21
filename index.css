@@ -1,6 +1,6 @@
 body{
     background: white;
 }
-.header{
-    align-content: center;
+body .header{
+    text-align: center;
 }
