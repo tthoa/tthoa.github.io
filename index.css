@@ -2,7 +2,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 body .header{
     text-align: center;
 }
+body .avatar-name{
+    text-align: center
+}
 body .avatar{
-    width: 200px;
-    height: auto;
+    background-size: 200px auto;
+    width: 60%;
+    margin: 20px auto;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    vertical-align: middle;
 }
